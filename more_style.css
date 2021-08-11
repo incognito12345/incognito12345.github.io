@@ -1,6 +1,7 @@
 .button:hover {
     background-color: forestgreen;
     border-radius: 25px;
+    cursor: pointer;
 }
 
 .button {
