@@ -13,7 +13,7 @@
 .border-text {
     border: 4px dashed green; 
     width: 500px; 
-    height: 250px; 
+    height: 500px; 
     text-align: center;
     float: left;
 }
