@@ -38,6 +38,24 @@
             border-radius: 25px;
             cursor: pointer;
         }
+        
+         .button2:hover {
+            background-color: yellow;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+
+         .button3:hover {
+            background-color: yellow;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+
+         .button4:hover {
+            background-color: yellow;
+            border-radius: 25px;
+            cursor: pointer;
+        }
 
         a:hover {
             color: peru;
