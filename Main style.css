@@ -19,28 +19,28 @@
         }
         
         .button2 {
-            background-color: lightgreen;
+            background-color: orange;
             border-radius: 25px;
         }
         
         .button3 {
-            background-color: lightgreen;
+            background-color: lightblue;
             border-radius: 25px;
         }
         
         .button4 {
-            background-color: lightgreen;
+            background-color: yellow;
             border-radius: 25px;
         }
 
         .button1:hover {
-            background-color: yellow;
+            background-color: orange;
             border-radius: 25px;
             cursor: pointer;
         }
         
          .button2:hover {
-            background-color: yellow;
+            background-color: lightblue;
             border-radius: 25px;
             cursor: pointer;
         }
@@ -52,12 +52,7 @@
         }
 
          .button4:hover {
-            background-color: yellow;
+            background-color: lightgreen;
             border-radius: 25px;
-            cursor: pointer;
-        }
-
-        a:hover {
-            color: peru;
             cursor: pointer;
         }
