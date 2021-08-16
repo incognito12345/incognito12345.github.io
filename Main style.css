@@ -16,25 +16,21 @@
         .button1 {
             background-color: lightgreen;
             border-radius: 25px;
-            padding: 15px 32px;
         }
         
         .button2 {
             background-color: orange;
             border-radius: 25px;
-            padding: 15px 32px;
         }
         
         .button3 {
             background-color: lightblue;
             border-radius: 25px;
-            padding: 15px 32px;
         }
         
         .button4 {
             background-color: yellow;
             border-radius: 25px;
-            padding: 15px 32px;
         }
 
         .button1:hover {
