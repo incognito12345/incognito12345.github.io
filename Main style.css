@@ -34,28 +34,28 @@
         }
 
         .button1:hover {
-            background-color: orange;
+            background-color: tomato;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
         
          .button2:hover {
-            background-color: lightblue;
+            background-color: goldenrod;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
 
          .button3:hover {
-            background-color: yellow;
+            background-color: pink;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
 
          .button4:hover {
-            background-color: lightgreen;
+            background-color: peru;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
