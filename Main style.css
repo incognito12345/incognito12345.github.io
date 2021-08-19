@@ -41,21 +41,21 @@
         }
         
          .button2:hover {
-            background-color: goldenrod;
+            background-color: gold;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
 
          .button3:hover {
-            background-color: pink;
+            background-color: green;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
 
          .button4:hover {
-            background-color: peru;
+            background-color: silver;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
