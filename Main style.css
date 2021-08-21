@@ -16,50 +16,46 @@
         .button1 {
             background-color: lightgreen;
             border-radius: 25px;
-            padding: 15px 32px;
         }
         
         .button2 {
             background-color: orange;
             border-radius: 25px;
-            padding: 15px 32px;
         }
         
         .button3 {
             background-color: lightblue;
             border-radius: 25px;
-            padding: 15px 32px;
         }
         
         .button4 {
             background-color: yellow;
             border-radius: 25px;
-            padding: 15px 32px;
         }
 
         .button1:hover {
-            background-color: orange;
+            background-color: tomato;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
         
          .button2:hover {
-            background-color: lightblue;
+            background-color: gold;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
 
          .button3:hover {
-            background-color: yellow;
+            background-color: green;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
         }
 
          .button4:hover {
-            background-color: lightgreen;
+            background-color: silver;
             border-radius: 25px;
             cursor: pointer;
             padding: 15px 32px;
