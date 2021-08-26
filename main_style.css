@@ -63,9 +63,6 @@
 
         .border-text {
             border: 4px dashed green; 
-            width: 500px; 
-            height: 600px; 
-            text-align: center;
             float: left;
         }
 
