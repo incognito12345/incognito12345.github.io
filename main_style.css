@@ -79,6 +79,7 @@
 	    background-color: green;
 	    width: 400px;
 	    color: gold;
+	    float: left;
 	}
 
         .size {
