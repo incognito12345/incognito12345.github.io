@@ -67,6 +67,11 @@
             border: 4px dashed green; 
             float: left;
         }
+	
+	.border-text2 {
+            border: 4px dashed green; 
+            float: left;
+        }
 
         .diagram {
 	    width: 400px;
