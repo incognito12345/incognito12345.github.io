@@ -74,14 +74,14 @@
         }
 
         .diagram {
-	    width: 450px;
-	    height: 600px;
+	    width: 400px;
+	    height: 400px;
 	}
 
 	.border {
 	    text-align: center;
 	    background-color: green;
-	    height: 500px;
+	    height: 400px;
 	    color: gold;
 	    float: right;
 	}
