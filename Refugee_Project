@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Refugee_project</title>
+  <style>
+    .image div {
+      padding: 0.75%;
+      border: 1px solid black;
+      height: 2.21%;
+      width: 2.21%;
+      float: right;
+    }
+    .image {
+      clear: both;
+    }
+  </style>
+  <body>
+    <div>
+      <div class="image">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="image">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="image">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </body>
