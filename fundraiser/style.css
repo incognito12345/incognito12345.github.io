@@ -9,3 +9,14 @@
 .image {
     clear: both;
 }
+
+.text1 {
+    color: green;
+    text-align: center;
+    font-size: x-large;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body {
+    background-color: lightblue;
+}
