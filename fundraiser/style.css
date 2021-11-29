@@ -3,20 +3,10 @@
     border: 2px solid black;
     height: 40.21%;
     width: 20.21%;
-    float: left;
+    float: right;
+    text-align: center;
 }
 
 .image {
     clear: both;
-}
-
-.text1 {
-    color: green;
-    text-align: center;
-    font-size: x-large;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-}
-
-body {
-    background-color: lightblue;
 }
