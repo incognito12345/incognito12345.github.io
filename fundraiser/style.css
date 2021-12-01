@@ -41,6 +41,6 @@ body {
     background-color: green;
 }
 
-.btn::hover {
+.btn:hover {
     background-color: lightgreen;
 }
