@@ -36,3 +36,7 @@ body {
     text-align: center;
     font-family: monospace;
 }
+
+.btn {
+    background-color: green;
+}
