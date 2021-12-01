@@ -31,7 +31,7 @@ body {
 }
 
 .heading {
-    font-size: xx-large;
+    /* for use with h1 */
     color: red;
     text-align: center;
 }
