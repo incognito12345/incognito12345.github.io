@@ -40,3 +40,7 @@ body {
 .btn {
     background-color: green;
 }
+
+.btn::hover {
+    background-color: lightgreen;
+}
