@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@500&display=swap');
+
 .image div {
     padding: 0.74%;
     border: 2px solid black;
@@ -15,7 +17,7 @@
     color: green;
     text-align: center;
     font-size: x-large;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: 'M PLUS 1 Code', sans-serif;
 }
 
 body {
