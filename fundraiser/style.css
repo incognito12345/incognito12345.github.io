@@ -29,3 +29,9 @@ body {
 .visible {
     display: block;
 }
+
+.heading {
+    font-size: xx-large;
+    color: red;
+    text-align: center;
+}
