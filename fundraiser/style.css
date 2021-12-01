@@ -39,8 +39,12 @@ body {
 
 .btn {
     background-color: green;
+    border-radius: 25px;
 }
 
 .btn:hover {
     background-color: lightgreen;
+    cursor: pointer;
+    border-radius: 25px;
+    padding: 15px 32px;
 }
