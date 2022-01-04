@@ -3,8 +3,8 @@
 .image div {
     padding: 0.74%;
     border: 2px solid black;
-    height: 25.15%;
-    width: 20.21%;
+    height: 600px;
+    width: 30%;
     float: right;
     text-align: center;
 }
@@ -26,10 +26,6 @@ body {
 
 .hidden {
     display: none;
-}
-
-.visible {
-    display: block;
 }
 
 .heading {
@@ -55,4 +51,13 @@ body {
     border: 4px solid blue;
     width: 100%;
     padding: 5px;
+}
+
+.textBox { 
+    border: 5px solid red; 
+    float: right; 
+    height: 600px; 
+    width: 30%; 
+    background-color: lightgreen;
+    margin: 10px;
 }
