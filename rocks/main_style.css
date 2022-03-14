@@ -1,3 +1,7 @@
+	html {
+		min-width: 1340px;
+		max-width: 1340px;
+	}
 
 	.index_background {
             width: 100%;
