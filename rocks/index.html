@@ -8,9 +8,6 @@
         function pop_up() {
             alert("Rocks rock!!");
         }
-        function redirect(webpage) {
-            window.location.replace(webpage);
-        }
     </script>
 </head>
 
@@ -31,9 +28,9 @@
     </div>
     <div style="border: 5px double green; width: 800px; height: 200px;  background-color: orange; float: right;">
         <h4>If you want more pictures <em>Click these buttons:</em></h4>
-        
-        <button class="button2" onclick="redirect(https://incognito12345.github.io/rocks/Square_picture.html)">Click here to see a picture!</button>
-        
+        <form method="get" action="https://incognito12345.github.io/rocks/Square_picture.html">
+             <button class="button2" type="submit"</button>
+        </form>
         <form method="get" action="https://incognito12345.github.io/rocks/Circle_picture.html">
             <br />
             <button class="button3" type="submit">Click here to see another picture!</button>
