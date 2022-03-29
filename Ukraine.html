@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html style="background-color: Blue;">
+<head> 
+	<title> Ukraine </title>
+	<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+	<div id="button">
+		<button id="clickme"> Click me! </button>
+	</div>
+	<div id="flag">Stand with <br> Ukraine </div>
+	<script>
+		$( "#clickme" ).click(function () {
+			$( "#flag" ).slideToggle( "slow" );
+		});
+	</script>
+</body>
+</html>
