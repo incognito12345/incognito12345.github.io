@@ -115,3 +115,11 @@
 		font-size: 20pt;
 		color: yellow;
 	}
+
+	.box1 {
+		border: 5px double green;
+		width: 800px; 
+		height: 230px; 
+		background-color: lightblue; 
+		float: right;
+}
