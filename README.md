@@ -1,4 +1,4 @@
-To my websites, copy and paste these links into your browser:
+To see my websites, copy and paste these links into your browser:
 
 # The Rocks Website:
 https://incognito12345.github.io/rocks/
