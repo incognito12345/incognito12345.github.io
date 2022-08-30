@@ -127,8 +127,7 @@
 	}
 
 	.box1 {
-		border: 5px double green;
-		width: 800px; 
+		border: 5px double green; 
 		height: 230px; 
 		background-color: lightblue; 
 		float: right;
