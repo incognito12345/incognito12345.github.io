@@ -129,7 +129,7 @@
 
 	.box1 {
 		border: 5px double green; 
-		height: 200px; 
+		height: 195px; 
 		background-color: lightblue; 
 		float: right;
 	}
@@ -137,7 +137,7 @@
 	.box2 {
 		border: 5px double green; 
 		width: 800px; 
-		height: 195px;  
+		height: 200px;  
 		background-color: orange; 
 		float: right;
 }
