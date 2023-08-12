@@ -28,6 +28,16 @@ img{
 		height: 50px;
 		font-size: 23pt;
 	}
+	table{
+		width: 100%;
+		font-size: 23pt;
+	}
+	footer{
+		width: 99%;
+		font-size: 23pt;
+		height: 50px;
+	}
+		
 }
 #header {
 	background-color: #11c1bb61;
