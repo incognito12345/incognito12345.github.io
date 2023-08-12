@@ -28,7 +28,7 @@
 #div2 {
 	font-family: 'Brush Script MT', cursive;
 	background-color: darkorange;
-	width: 500px;
+	width: 390px;
 	height: 130px;
 	margin-left: 90px;
 	border: 2px solid black;
@@ -43,7 +43,7 @@ p {
 	background-color: DodgerBlue;
 	padding: 20px;
 	border-radius: 10px;
-	width: 400px;
+	width: 350px;
 	margin-left: 90px;
 	box-shadow: 5px 5px 15px black;
 	/*flex-grow: 3;
