@@ -21,7 +21,7 @@ img{
 	position: fixed;
 }
 #div1 {
-	/*background-image: url("C:\Users\Fabien\Pictures\Wellie.jpg");*/
+	background-image: url("https://incognito12345.github.io/clubwellie/Wellie.jpg");
 	position: fixed;
 	z-index: -1;
 	padding: 0;
@@ -109,10 +109,10 @@ footer{
 	box-shadow: 5px 5px 15px black;
 }
 @media only screen and (max-width: 1000px) {
-	img{
+	/*img{
 		width:100%;
 		height:1500px;
-	}
+	}*/
 	#header{
 		width:100%;
 		height: 150px;
@@ -137,20 +137,23 @@ footer{
 		font-size: 23pt;
 		padding: 50px;
 		float: right;
-		margin-right: 100px;
+		margin-right: 80px;
 		margin-left: none;
 	}
 	table{
+		margin-left: none;
+		margin-right: none;
 		width: 100%;
 		font-size: 23pt;
-		margin-top: 100px;
+		height: 400px;
 	}
 	footer{
+		margin-left: none;
+		margin-right: none;
 		width: 100%;
 		font-size: 23pt;
 		text-align: center;
 		height: 75px;
-		margin: auto;
 	}
 		
 }
