@@ -140,9 +140,9 @@ footer{
 		margin-right: 80px;
 		margin-left: none;
 	}
-	/*.mbr {
+	.mbr {
 		display: static;
-	}*/
+	}
 	table{
 		margin-left: none;
 		margin-right: none;
