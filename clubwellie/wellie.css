@@ -153,15 +153,11 @@ footer{
 		display: static;
 	}
 	table{
-		margin-left: none;
-		margin-right: none;
 		width: 100%;
 		font-size: 23pt;
 		height: 400px;
 	}
 	footer{
-		margin-left: none;
-		margin-right: none;
 		width: 100%;
 		font-size: 23pt;
 		text-align: center;
