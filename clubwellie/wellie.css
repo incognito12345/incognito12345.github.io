@@ -82,7 +82,7 @@ a {
 	background-color: #8e44cf;
 	border-radius: 20px;
 	padding: 20px;
-	margin-left: 805px;
+	margin-left: 505px;
 	text-align: center;
 	color: black;
 	text-decoration: none;
@@ -145,10 +145,9 @@ footer{
 	}
 	a {
 		font-size: 23pt;
+		margin-left: 805px;
 		padding: 50px;
 		float: right;
-		margin-right: 80px;
-		margin-left: none;
 	}
 	.mbr {
 		display: static;
