@@ -74,6 +74,10 @@ border-radius: 10px;
 	background: goldenrod;/*rgb(100, 230, 0);*/
 }
 
+.mbr{
+	display: none;
+}
+
 a {
 	background-color: #8e44cf;
 	border-radius: 20px;
@@ -110,7 +114,7 @@ footer{
 }
 @media only screen and (max-width: 1000px) {
 	body{
-		background-color: #f0b216;
+		background-color: #b1d141;
 	}
 	img{
 		width:100%;
