@@ -5,9 +5,11 @@
 </head>
 <style>
 #div1 {
+border: 4px double black; margin: 10px;
 }
 </style>
 <body>
-<div id="div1"><img src="" /></div>
+<div id="div1"><img src="https://incognito12345.github.io/clubwellie/20230821" /></div>
+<div id="div1"><img src="https://incognito12345.github.io/clubwellie/20230821" /></div>
 </body>
 </html>
