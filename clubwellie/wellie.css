@@ -116,6 +116,13 @@ footer{
 	body{
 		background-color: #b1d141;
 	}
+	.Mydivs{
+		width: 800px;
+		height: 800px;
+	}
+	.myimg{
+		hieght: 800px;
+	}
 	#a1{
 		display: none;
 	}
