@@ -47,10 +47,11 @@ img{
 	background-color: DodgerBlue;
 	padding: 20px;
 	border-radius: 10px;
-	width: 350px;
+	width: 500px;
 	height: 630px;
 	margin-left: 90px;
 	box-shadow: 5px 5px 15px black;
+	font-size: 26px;
 	/*flex-grow: 3;
 	flex-shrink: 10; this does: 💩*/
 }
