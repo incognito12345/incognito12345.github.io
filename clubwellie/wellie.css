@@ -166,7 +166,9 @@ footer{
 		width: 100%;
 		font-size: 26pt;
 		height: 400px;
-		padding: 150px;
+	}
+	th{
+		padding: 23px;
 	}
 	footer{
 		padding: 40px;
