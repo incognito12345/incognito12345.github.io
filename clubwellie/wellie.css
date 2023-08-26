@@ -42,18 +42,24 @@ img{
 	box-shadow: 5px 5px 15px black;
 	padding-top: 50px;
 }
-#para{
+p #para{
 	font-family: 'Courier New', monospace;
 	background-color: DodgerBlue;
 	padding: 20px;
 	border-radius: 10px;
-	width: 500px;
-	height: 630px;
 	margin-left: 90px;
 	box-shadow: 5px 5px 15px black;
 	font-size: 26px;
 	/*flex-grow: 3;
 	flex-shrink: 10; this does: 💩*/
+}
+#para{
+	width: 350px;
+	height: 430px;
+}
+p {
+	width: 350px;
+	height: 15px;
 }
 /*width*/
 ::-webkit-scrollbar {
@@ -147,6 +153,10 @@ footer{
 		width: 800px;
 		height: 200px;
 		font-size: 43pt;
+	}
+	#para {
+		width: 500px;
+		height: 630px;
 	}
 	p{
 		width: 600px;
