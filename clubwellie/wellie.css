@@ -60,7 +60,6 @@ p, #para{
 }
 p {
 	width: 350px;
-	height: 25px;
 }
 /*width*/
 ::-webkit-scrollbar {
