@@ -42,7 +42,7 @@ img{
 	box-shadow: 5px 5px 15px black;
 	padding-top: 50px;
 }
-p #para{
+p, #para{
 	font-family: 'Courier New', monospace;
 	background-color: DodgerBlue;
 	padding: 20px;
