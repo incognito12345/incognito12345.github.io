@@ -56,10 +56,11 @@ p, #para{
 #para{
 	width: 350px;
 	height: 430px;
+	background-color: #a0d64a;
 }
 p {
 	width: 350px;
-	height: 15px;
+	height: 25px;
 }
 /*width*/
 ::-webkit-scrollbar {
