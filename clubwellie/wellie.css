@@ -108,7 +108,7 @@ th{
 	height: 100px;
 }
 table{
-	margin: 35px;
+	margin: 90px;
 	box-shadow: 5px 5px 15px black;
 }
 footer{
@@ -116,7 +116,7 @@ footer{
 	width: 400px;
 	padding: 20px;
 	border-radius: 20px;
-	margin: 35px;
+	margin: 60px;
 	box-shadow: 5px 5px 15px black;
 }
 @media only screen and (max-width: 1000px) {
@@ -172,6 +172,7 @@ footer{
 		display: static;
 	}
 	table{
+		margin: 35px;
 		width: 100%;
 		font-size: 40pt;
 	}
@@ -179,6 +180,7 @@ footer{
 		padding: 23px;
 	}
 	footer{
+		margin: 35px;
 		padding: 40px;
 		width: 100%;
 		font-size: 40pt;
