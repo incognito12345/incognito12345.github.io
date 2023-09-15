@@ -49,7 +49,7 @@ p, #para{
 	border-radius: 10px;
 	margin-left: 90px;
 	box-shadow: 5px 5px 15px black;
-	font-size: 26px;
+	font-size: 20px;
 	/*flex-grow: 3;
 	flex-shrink: 10; this does: 💩*/
 }
@@ -110,8 +110,10 @@ th{
 table{
 	margin: 90px;
 	box-shadow: 5px 5px 15px black;
+	font-size: 20px;
 }
 footer{
+	font-size: 20px;
 	background-color:limegreen;
 	width: 400px;
 	padding: 20px;
