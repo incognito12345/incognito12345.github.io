@@ -1,3 +1,19 @@
+.span2 {
+	float:left;
+	color:white;
+	margin-left:20px;
+	/*border: 1px solid black;*/
+	padding:5px;
+	background-color:red;
+	border-radius:5px;
+	transition: 0.3s;
+}
+
+.span2:hover{
+	cursor:pointer;
+	box-shadow:0 0 10px black;
+}
+
 /*width*/
 ::-webkit-scrollbar {
 	width: 20px;
