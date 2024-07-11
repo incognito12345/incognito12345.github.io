@@ -16,7 +16,6 @@
 
 .sidenav{
 	height: 100%;
-	color: white;
 	width: 0;
 	position: fixed;
 	z-index: 1;
@@ -54,6 +53,10 @@
 	right: 25px;
 	font-size: 36px;
 	margin-left: 50px;
+}
+
+.sideNavText{
+	color:white:
 }
 
 /*width*/
